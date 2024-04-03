@@ -1,0 +1,62 @@
+body{
+    margin: 0;
+    padding-top: 100px;
+    text-align: center;
+}
+#d1{
+    width: 100px;
+    height: 75px;
+    background-color: aqua;
+    color: rgb(red, green, blue);
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 30px;
+
+    border-style: solid;
+    border-width:medium;
+    box-shadow: 10px 10px 10px aqua;
+    border-radius: 25px;
+}
+#d2{
+    width: 100px;
+    height: 75px;
+    background-color: rgb(0, 255, 170);
+    color: rgb(rgb(219, 247, 3), rgb(10, 236, 10), rgb(47, 246, 176));
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 30px;
+
+    border-style: solid;
+    border-width:medium;
+    box-shadow: 10px 10px 10px aqua;
+    border-radius: 25px;
+}
+#d3{
+    width: 100px;
+    height: 75px;
+    background-color: rgb(1, 248, 100);
+    color: rgb(rgb(219, 247, 3), rgb(10, 236, 10), rgb(47, 246, 176));
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 30px;
+
+    border-style: solid;
+    border-width:medium;
+    box-shadow: 10px 10px 10px rgb(0, 255, 145);
+    border-radius: 25px;
+}
+#d4{
+
+    width: 100px;
+    height: 75px;
+    background-color: rgb(0, 255, 170);
+    color: rgb(rgb(219, 247, 3), rgb(10, 236, 10), rgb(47, 246, 176));
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 30px;
+
+    border-style: solid;
+    border-width:medium;
+    box-shadow: 10px 10px 10px aqua;
+    border-radius: 25px;
+}
